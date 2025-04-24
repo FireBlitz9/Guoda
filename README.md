@@ -1,5 +1,5 @@
 -Guoda (GuodaSellCalc)
-
+LATEST RELEASE: https://github.com/FireBlitz9/Guoda/releases/tag/guodasellcalc
 **Overview
 
 The High Guoda Sell Calc is a Python-based GUI tool designed for players of Lethal Company to calculate item sales, quotas, and overtime bonuses for maximizing profits.
